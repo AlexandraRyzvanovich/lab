@@ -1,6 +1,6 @@
-rootProject.name = 'lab'
 include('web')
 include('service')
+include('dao')
 
 
 
